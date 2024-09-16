@@ -1,7 +1,7 @@
 
 ---
 
-# CryptoPay - MERN Stack Application
+# CryptoPay 
 
 CryptoPay is a decentralized application built with the MERN stack that allows users to easily generate crypto wallet addresses for Solana (SOL) and Ethereum (ETH) and claim them for transactions. This application simplifies the process of receiving payments in cryptocurrency by providing a streamlined interface.
 

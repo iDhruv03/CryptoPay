@@ -22,4 +22,3 @@ CryptoPay is a decentralized application built with the MERN stack that allows u
 
 ---
 
-This is a cleaner, easier-to-paste version for your GitHub README file.
